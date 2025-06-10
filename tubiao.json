@@ -3,8 +3,8 @@
   "description": "收集一些自己常用的图标，尺寸为108px或144px",
   "icons": [
     {
-      "name": "fmz200",
-      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-01.png"
+      "name": "touxiang",
+      "url": "https://raw.githubusercontent.com/rexinwangyou37/tupian-/refs/heads/main/touxiang.png"
     },
   ]
 }
